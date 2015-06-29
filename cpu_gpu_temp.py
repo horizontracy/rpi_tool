@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import commands
 
 def get_cpu_temp():
